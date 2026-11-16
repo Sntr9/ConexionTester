@@ -11,13 +11,13 @@ ConexionTester/
 ├── src/com/iudigital/conexiontester/ConexionTester.java
 ├── lib/sqlite-jdbc-3.46.1.3.jar   (driver JDBC de SQLite)
 ├── capturas/                       (evidencia de ejecución)
-├── EA3_Incorporando_UI_y_BD_LopezSantiago.pdf   (informe)
+├── EA3_Incorporando_UI_y_BD_Grupo15_LopezSantiago.pdf   (informe)
 ├── Codigo-Fuente-ConexionTester.csv             (código en CSV)
 ├── ejecutar.bat                    (Windows)
 └── ejecutar.sh                     (Linux / macOS)
 ```
 
-El informe de la actividad está en [EA3_Incorporando_UI_y_BD_LopezSantiago.pdf](EA3_Incorporando_UI_y_BD_LopezSantiago.pdf).
+El informe de la actividad está en [EA3_Incorporando_UI_y_BD_Grupo15_LopezSantiago.pdf](EA3_Incorporando_UI_y_BD_Grupo15_LopezSantiago.pdf).
 
 ## Capturas
 
